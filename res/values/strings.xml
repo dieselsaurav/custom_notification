@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custom Notifications</string>
+    <string name="notify_me">Notify Me</string>
+    <string name="custom_notification">Custom Notification</string>
+</resources>
